@@ -1,4 +1,4 @@
-class ntp::params {
+class v_ntp::params {
   $package_name       = 'ntp'
   $package_ensure     = 'present'
   $config_name        = 'ntp.conf'
